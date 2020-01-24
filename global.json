@@ -1,0 +1,13 @@
+{
+	"sdk": {
+		"version": "3.0.100",
+		"rollforward": "major"
+	},
+	"tools": {
+		"dotnet": "3.0.100"
+	},
+	"msbuild-sdks": {
+		"Microsoft.DotNet.Arcade.Sdk": "1.0.0-beta.19502.2",
+		"Microsoft.DotNet.Build.Tasks.Configuration": "1.0.0-beta.19502.2"
+	}
+}
